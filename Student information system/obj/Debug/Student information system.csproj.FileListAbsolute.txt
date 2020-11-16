@@ -1,0 +1,44 @@
+C:\Users\DELL\source\repos\Student information system\Student information system\bin\Debug\Student information system.exe.config
+C:\Users\DELL\source\repos\Student information system\Student information system\bin\Debug\Student information system.exe
+C:\Users\DELL\source\repos\Student information system\Student information system\bin\Debug\Student information system.pdb
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student information system.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.Login_Form.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student information system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student information system.exe
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student information system.pdb
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.MainForm.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.AddstudentForm.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.ManageStudentsForm.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.StaticsForm.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.StudentListForm.resources
+C:\Users\DELL\source\repos\Student information system\Student information system\obj\Debug\Student_information_system.UpdateStudentForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\Student information system.exe.config
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\Student information system.exe
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\Student information system.pdb
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.csprojAssemblyReference.cache
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.AddCourseForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.AddScoreForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.AddstudentForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.EditCourseForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.Login_Form.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.MainForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.ManageCourseForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.ManageScoreForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.ManageStudentsForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.PrintCoursesForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.PrintStudentsForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.Properties.Resources.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.RemoveCourseForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.RemoveScoreForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.StaticsForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.StudentListForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student_information_system.UpdateStudentForm.resources
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.csproj.GenerateResource.cache
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.csproj.CoreCompileInputs.cache
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.exe
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.pdb
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\MySql.Data.dll
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\Google.Protobuf.dll
+E:\Second 4\Term 2\OAS\Student information system\Student information system\bin\Debug\BouncyCastle.Crypto.dll
+E:\Second 4\Term 2\OAS\Student information system\Student information system\obj\Debug\Student information system.csproj.CopyComplete
